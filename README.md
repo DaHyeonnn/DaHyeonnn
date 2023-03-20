@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=모양&color=auto&height=높이&section=header&text="DaHyeonnn Github "&fontSize=90)
 <!--
 **DaHyeonnn/DaHyeonnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DaHyeonnn%20Git&fontSize=90)
