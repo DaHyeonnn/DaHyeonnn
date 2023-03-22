@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DaHyeon%20Github&fontSize=90)
-😁 Hello, I'm DaHyeon
-🔭 I’m currently working on boostcamp
-🌱 I’m currently learning about AI
+<br><br>
+😁 Hello, I'm DaHyeon<br>
+🔭 I’m currently working on boostcamp<br>
+🌱 I’m currently learning about AI<br>
