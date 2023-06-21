@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...!@
 - ⚡ Fun fact: !@...
 -->
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DaHyeon%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DaHyeon%20Github!&fontSize=90)
 <br><br>
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaHyeonnn&show_icons=true&theme=radical)-->
 😁 Hello, I'm DaHyeon<br>
 🌱 I’m currently learning about AI<br>
