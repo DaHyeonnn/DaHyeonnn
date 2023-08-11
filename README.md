@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning about AI<br>
 💌 contact : ekgus8742@naver.com
 
+---
 ### 🎹프로젝트
 |Period|Title|Description|
 |---|---|---|
@@ -26,8 +27,11 @@ Here are some ideas to get you started:
 |2022.03 ~ 2022.04|[자율주행 서비스 기반 능동형 화재 감시 및 스마트 진입로 시스템 구축](https://github.com/DaHyeonnn/Car_Number_Detection)|불법 주정차된 **차량 번호판을 인식**하여 스마트캠퍼스 구축|
 |2021.11 ~ 2022.07|[Camera-based Object Detection System](https://github.com/DaHyeonnn/Yolov5) & <br>[LiDAR & Camera Fusion for Object Detection](https://github.com/DaHyeonnn/Fusion)|**신호등 색깔을 탐지**하여 ERP-42 자율주행 & <br>**Camera, LiDAR Sensor Fusion**을 통한 Object Detection |
 
+---
 ### 🎃경험
 |Period|Description|
 |---|---|
 |2023.03 ~ 2023.08|네이버 커넥트재단 부스트캠프 AI Tech CV트랙 5기|
 |2021.11 ~ 2022.08|인하대학교 자율항법 연구실 학부연구생|
+
+---
