@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### 🎃경험
 |Period|Title|Description|
 |---|---|---|
-|2023.09 ~ 2023.12|[ICT인턴십] <sup>(주)</sup>알고그랩<sub>SBTglobal</sub> 인턴| Data Lake Infra 구축
+|2023.09 ~ 2023.12|[ICT인턴십] <sup>(주)</sup>알고그랩<sub>SBTglobal</sub> 인턴| - Databricks On-premise 환경 구축 (Data Lake Infra 구축) <br> - 공간감염병 예측 (분석 및 모델링)
 |2023.03 ~ 2023.08|네이버 커넥트재단 부스트캠프 AI Tech 5기| <sup>CV Track으로 참여하여,</sup><br> Classification, Object Detection, Segmantaion Task 수행
 |2021.11 ~ 2022.08|인하대학교 자율항법 연구실 학부연구생| <sup>Camera&Fusion Team으로 참여하여,</sup><br> - 신호등 색 및 표지판 인식<br> - Camera&LiDAR Sensor Fusion <br> - 번호판 인식을 통한 캠퍼스 내 순찰 강화 [Link](https://mobile.newsis.com/view.html?ar_id=NISX20220406_0001822833)
 ---
@@ -39,9 +39,6 @@ Here are some ideas to get you started:
 ### 👻수상
 |Period|Title|Description|
 |---|---|---|
+|2023.08 ~ 2022.12|[Inha Univ] **인하인재개발원장상**| [ICT인턴십] 현장실습 우수학생 선발| 
 |2023.08 ~ 2022.10|2023 ETRI 자율성장 인공지능 경진대회 :<br> **과학기술정보통신부장관상 (우수)** [Link](https://www.aitimes.kr/news/articleView.html?idxno=29085)|- Sub-Task1 Image Classification : <br><sup> 패션 이미지 속성(색상,모양,질감) 라벨 분류 </sup><br> - Sub-Task2 Imbalanced Classification :<br> <sup>불균형한 색상 라벨 분류</sup> <br> - Sub-Task3 Continual Learning : <br><sup>순차적인 패션 코디 데이터의 연속학습 성능 측정</sup> <br> - Sub-Task4 zero-Shot : <br><sup>패션 코디 데이터를 통해, 학습한 적 없는 악세서리 코디 성능 측정</sup><br>|
 |2022.03 ~ 2022.06|[Inha Univ] Alpha Projects : **대상**| Camera & LiDAR Sensor의 Detection을 통한 자율 주행<sub>(운행 및 주차 부문)</sub> |
-
-<!-- 
-|2023.08 ~ 2022.12|[Inha Univ] **인하인재개발원장상**| [ICT인턴십] 현장실습 우수학생 선발| 
--->
